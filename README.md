@@ -1,1 +1,1 @@
-Um die einzelnen Simulationen durchzuführen, bitte jeweilige main Fails aus den tieferliegendem Ordner in den darüberliegenden ziehen und ausführen
+Um die einzelnen Simulationen durchzuführen, bitte jeweilige "__init__.py" file im unter-Ordner nutzen
